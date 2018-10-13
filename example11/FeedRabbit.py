@@ -4,7 +4,7 @@ n = int(input("Please input the number of month: "))
 sum = 0;
 count = 0;
 m = 0
-print("初始，兔子数：2")
+print("初始，兔子数：0")
 for i in range(1, n+1):
     m += 1
     count += 1
